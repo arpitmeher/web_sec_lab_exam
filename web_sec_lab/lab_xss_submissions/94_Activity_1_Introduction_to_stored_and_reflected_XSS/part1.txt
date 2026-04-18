@@ -1,0 +1,1 @@
+http://localhost:30000/participants/?courseid=4&search=<script>alert("hacked")<%2Fscript>
